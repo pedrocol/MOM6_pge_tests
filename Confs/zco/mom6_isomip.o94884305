@@ -1,0 +1,38 @@
+laboratory path:  /scratch/e14/pc5520/mom6
+binary path:  /scratch/e14/pc5520/mom6/bin
+input path:  /scratch/e14/pc5520/mom6/input
+work path:  /scratch/e14/pc5520/mom6/work
+archive path:  /scratch/e14/pc5520/mom6/archive
+nruns: 1 nruns_per_submit: 1 subrun: 1
+Loading input manifest: manifests/input.yaml
+Loading restart manifest: manifests/restart.yaml
+Loading exe manifest: manifests/exe.yaml
+Setting up mom6
+Checking exe and input manifests
+Updating full hashes for 1 files in manifests/exe.yaml
+Creating restart manifest
+Writing manifests/restart.yaml
+Writing manifests/exe.yaml
+payu: Found modules in /opt/Modules/v4.3.0
+git add /home/552/pc5520/MOM6-examples/control/ISOMIP/zco/config.yaml
+git add /home/552/pc5520/MOM6-examples/control/ISOMIP/zco/input.nml
+git add /home/552/pc5520/MOM6-examples/control/ISOMIP/zco/MOM_input
+git add /home/552/pc5520/MOM6-examples/control/ISOMIP/zco/diag_table
+git add manifests/input.yaml
+git add manifests/restart.yaml
+git add manifests/exe.yaml
+git commit -am "2023-09-11 16:11:26: Run 0"
+mpirun  -wdir /scratch/e14/pc5520/mom6/work/zco -np 48  /scratch/e14/pc5520/mom6/work/zco/MOM6
+
+======================================================================================
+                  Resource Usage on 2023-09-11 16:26:20:
+   Job Id:             94884305.gadi-pbs
+   Project:            e14
+   Exit Status:        0
+   Service Units:      23.73
+   NCPUs Requested:    48                     NCPUs Used: 48              
+                                           CPU Time Used: 11:29:45        
+   Memory Requested:   192.0GB               Memory Used: 51.25GB         
+   Walltime requested: 00:59:00            Walltime Used: 00:14:50        
+   JobFS requested:    10.0GB                 JobFS used: 8.16MB          
+======================================================================================

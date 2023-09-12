@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/MOM6:
+  fullpath: /home/552/pc5520/mom6-ninja-nci/ocean_only_symmetric/MOM6
+  hashes:
+    binhash: 1ca6fd08b1ddeb686055cf9e61fd8978
+    md5: 109efd4e7c92732d66d04080c4ab0256

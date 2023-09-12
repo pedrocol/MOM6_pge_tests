@@ -1,0 +1,48 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/MOM_Shelf_IC.nc:
+  fullpath: /home/552/pc5520/ISOMIP/MOM_Shelf_IC.nc
+  hashes:
+    binhash: 5bb68790e2b5143e180e873a33f0402b
+    md5: 6eacd8acfb9214b7c1a7350d845fd830
+work/INPUT/diag_rho2.nc:
+  fullpath: /home/552/pc5520/ISOMIP/diag_rho2.nc
+  hashes:
+    binhash: 4006dd12492784815230577905cc12d3
+    md5: 2e28890e50220397a167a2b3c4a30271
+work/INPUT/ocean_daily_z.nc:
+  fullpath: /home/552/pc5520/ISOMIP/ocean_daily_z.nc
+  hashes:
+    binhash: 024eed9ab6a9e6b08c43aaa281b19bb4
+    md5: 437e4b815d3d28aab7e3e589e347e628
+work/INPUT/ocean_hgrid_isomip.nc:
+  fullpath: /home/552/pc5520/ISOMIP/ocean_hgrid_isomip.nc
+  hashes:
+    binhash: 3510fa995d5a2bd71b8e3c163a4b124b
+    md5: 81647f9deaf6f17fffac7c272220bc01
+work/INPUT/thickness_simpleshelf2_pfile.nc:
+  fullpath: /home/552/pc5520/ISOMIP/thickness_simpleshelf2_pfile.nc
+  hashes:
+    binhash: 0cd52d8cdfa06513a04388cb4aec1171
+    md5: ece7d37aa29fa1b336b5e3cb30090b7f
+work/INPUT/vert_isomip.nc:
+  fullpath: /home/552/pc5520/ISOMIP/vert_isomip.nc
+  hashes:
+    binhash: 266af69c2a5a9666045fd0c0c8c1a33c
+    md5: 62121532af6d64c817cc0703293828c0
+work/INPUT/vert_isomip_30m.nc:
+  fullpath: /home/552/pc5520/ISOMIP/vert_isomip_30m.nc
+  hashes:
+    binhash: ed4828962c8d4d0589c3dcd57d626c06
+    md5: 62121532af6d64c817cc0703293828c0
+work/INPUT/vert_isomip_9000.nc:
+  fullpath: /home/552/pc5520/ISOMIP/vert_isomip_9000.nc
+  hashes:
+    binhash: 11f9ca452ab0cd619165843c6a08d9c3
+    md5: 9aa1023d54e761dea5d7ff107e626b72
+work/INPUT/vert_isomip_orig.nc:
+  fullpath: /home/552/pc5520/ISOMIP/vert_isomip_orig.nc
+  hashes:
+    binhash: 2966a44ebd2574733e85f592e5638a36
+    md5: 7ab0f8b4d8048408716a61eda9803de4
