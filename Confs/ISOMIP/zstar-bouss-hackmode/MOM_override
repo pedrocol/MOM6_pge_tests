@@ -1,0 +1,30 @@
+! Blank file in which we can put "overrides" for parameters
+
+#override TS_CONFIG = "ISOMIP"
+
+! Use zstar
+#override USE_REGRIDDING = True
+#override REGRIDDING_COORDINATE_MODE = "ZSTAR" ! default = "LAYER"
+                                ! Coordinate mode for vertical regridding. Choose among the following
+                                ! possibilities:  LAYER - Isopycnal or stacked shallow water layers
+                                !  ZSTAR, Z* - stretched geopotential z*
+                                !  SIGMA_SHELF_ZSTAR - stretched geopotential z* ignoring shelf
+                                !  SIGMA - terrain following coordinates
+                                !  RHO   - continuous isopycnal
+                                !  HYCOM1 - HyCOM-like hybrid coordinate
+                                !  HYBGEN - Hybrid coordinate from the Hycom hybgen code
+                                !  SLIGHT - stretched coordinates above continuous isopycnal
+                                !  ADAPTIVE - optimize for smooth neutral density surfaces
+
+!#override BOUSSINESQ = False
+
+#override DRAG_BG_VEL = 0.05 ! Default is 0.00
+#override KH = 6.0 ! ISOMIP Asay-Davis protocol 
+
+#override KV = 1.0E-3 ! ISOMIP Asay-Davis protocol
+#override TRIM_IC_FOR_P_SURF = False
+
+#override THICKNESS_CONFIG = "thickness_file"
+#override THICKNESS_FILE = "ISOMIP_thickness_zstar-bouss.nc"  ! This is defined in make_thickness.ipynb
+#override REMAP_AFTER_INITIALIZATION = False
+#override HACK_MODE = True 

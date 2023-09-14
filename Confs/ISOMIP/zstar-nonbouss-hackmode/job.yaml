@@ -1,0 +1,9 @@
+PAYU_CONTROL_DIR: /home/156/cy8964/mom6-control/MOM6_pge_tests/Confs/ISOMIP/zstar-nonbouss-hackmode
+PAYU_CURRENT_RUN: 0
+PAYU_FINISH_TIME: '2023-09-15T09:14:27.297709'
+PAYU_JOB_STATUS: 1
+PAYU_N_RUNS: 1
+PAYU_PATH: /g/data/hh5/public/apps/miniconda3/envs/analysis3-23.04/bin
+PAYU_RUN_ID: null
+PAYU_START_TIME: '2023-09-15T09:14:18.858197'
+PAYU_WALLTIME: 8.439512 s
