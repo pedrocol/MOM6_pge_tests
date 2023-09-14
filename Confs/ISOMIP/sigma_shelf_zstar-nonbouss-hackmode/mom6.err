@@ -1,0 +1,1766 @@
+
+WARNING from PE     0: diag_manager_mod::diag_manager_init: DIAG_MANAGER_NML not found in input.nml.  Using defaults.
+
+
+WARNING from PE     0: Ice shelf thickness initialized without setting the shelf mask from variable h_mask, which does not exist in INPUT/Ocean1_3D.nc
+
+
+WARNING from PE     0: MOM_file_parser : THICKNESS_CONFIG over-ridden.  Line: 'THICKNESS_CONFIG = "thickness_file"' in file MOM_override.
+
+
+WARNING from PE     0: MOM_file_parser : TS_CONFIG over-ridden.  Line: 'TS_CONFIG = "ISOMIP"' in file MOM_override.
+
+
+WARNING from PE     0: MOM_file_parser : TRIM_IC_FOR_P_SURF over-ridden.  Line: 'TRIM_IC_FOR_P_SURF = False' in file MOM_override.
+
+
+WARNING from PE     0: MOM_file_parser : KV over-ridden.  Line: 'KV = 1.0E-3' in file MOM_override.
+
+
+WARNING from PE     0: KVML is a deprecated parameter. Use KV_ML_INVZ2 instead.
+
+
+WARNING from PE     0: Previous msg:DT_FORCING = 300.0              !   [s] default = 0.0
+
+
+WARNING from PE     0: New message :DT_FORCING = 300.0              !   [s] default = 300.0
+
+
+WARNING from PE     0: Encountered inconsistent documentation line for parameter DT_FORCING!
+
+
+WARNING from PE     0: Unused line in MOM_input : T_REF = -1.9
+
+
+WARNING from PE     0: Unused line in MOM_input : FIT_SALINITY = True
+
+
+WARNING from PE     0: Unused line in MOM_input : SURFACE_PRESSURE_FILE = "Ocean1_3D.nc"
+
+
+WARNING from PE     0: Unused line in MOM_input : SURFACE_PRESSURE_VAR = "thick"
+
+
+WARNING from PE     0: Unused line in MOM_input : SURFACE_PRESSURE_SCALE = 8820.0
+
+
+WARNING from PE     9: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     9: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    10: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    10: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     5: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     5: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    22: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    22: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    25: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    25: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    40: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    40: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    42: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    42: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     6: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     6: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     8: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     8: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    20: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    20: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    38: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    38: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    39: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    39: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    41: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    41: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    21: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    21: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    26: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    26: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    27: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    27: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    36: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    36: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     7: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     7: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    23: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    23: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    37: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    37: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    11: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    11: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    24: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    24: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    43: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    43: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     4: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     4: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    43: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    43: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     6: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     6: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    37: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    37: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     8: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     8: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    41: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    41: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     5: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     5: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+
+WARNING from PE    23: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    23: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    20: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    20: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    38: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    38: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    25: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    25: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    24: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    24: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    10: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    10: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    42: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    42: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    36: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    36: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     9: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     9: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     4: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     4: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     7: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     7: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    11: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    11: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    22: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    22: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    21: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    21: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    26: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    26: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    29: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    29: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    39: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    39: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    40: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    40: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    45: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    45: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    13: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    13: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+WARNING from PE    27: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    27: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    10: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    10: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    42: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    42: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    43: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    43: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     9: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     9: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    45: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    45: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    27: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    27: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     8: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE     8: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    41: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    41: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    11: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    11: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    13: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    13: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    29: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    29: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+
+WARNING from PE    26: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    26: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    44: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    28: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    12: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    13: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    13: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    29: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    29: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+WARNING from PE    45: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    45: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    30: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    46: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    31: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    14: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    15: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+WARNING from PE    47: btstep: negative eta in a non-Boussinesq barotropic solver.
+
+
+FATAL from PE    29: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+
+FATAL from PE    45: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    30: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    44: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    10: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    42: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    36: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     6: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    43: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     9: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    28: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    27: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    37: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    46: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     8: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     4: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     7: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    41: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    22: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    21: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     5: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    26: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    11: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    15: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    31: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    14: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    23: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    20: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    38: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    12: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    39: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    25: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    24: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    40: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    13: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    47: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     1: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     2: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE     3: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    16: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    17: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    18: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    19: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    32: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    33: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    34: btstep: number of barotropic step (nstep+nfilter) is 0
+
+
+FATAL from PE    35: btstep: number of barotropic step (nstep+nfilter) is 0
+
+FATAL from PE     0: btstep: number of barotropic step (nstep+nfilter) is 0
+
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 41 in communicator MPI_COMM_WORLD
+with errorcode 1.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] PMIX ERROR: UNREACHABLE in file /jobfs/35197837.gadi-pbs/0/openmpi/4.1.2/source/openmpi-4.1.2/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 2198
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014C4BC9E3CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C4BC9E3180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014C4B7A8E79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014C4B7A8EAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014C4BD19EC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014C4BD4E62BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014C4BC646D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014785737CCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014785737845A  pthread_cond_wait     Unknown  Unknown
+libopen-pal.so.40  00001478516233CD  PMIx_Abort            Unknown  Unknown
+libopen-pal.so.40  0000147851690210  pmix3x_abort          Unknown  Unknown
+libopen-rte.so.40  00001478523E3C27  Unknown               Unknown  Unknown
+libopen-rte.so.40  00001478523FB9B6  orte_errmgr_base_     Unknown  Unknown
+libopen-rte.so.40  00001478523EB75B  Unknown               Unknown  Unknown
+libmpi.so.40.30.2  0000147857B4F0DA  ompi_mpi_abort        Unknown  Unknown
+libmpi_mpifh.so    0000147857E7F2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000147856FDFD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014920CD56CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014920CD56180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000149207E0179A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000149207E01AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014920D511C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014920D8592BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014920C9B9D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014967126ACF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014967126A180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014966C31579A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014966C315AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000149671A25C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000149671D6D2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000149670ECDD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000150F78B2FCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150F78B2F180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000150F73BDA79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000150F73BDAAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000150F792EAC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000150F796322BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000150F78792D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014DEB37C9CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014DEB37C9180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014DEAE87479A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014DEAE874AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014DEB3F84C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014DEB42CC2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014DEB342CD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000154430156CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015443015245A  pthread_cond_wait     Unknown  Unknown
+libopen-pal.so.40  000015442A3FD3CD  PMIx_Abort            Unknown  Unknown
+libopen-pal.so.40  000015442A46A210  pmix3x_abort          Unknown  Unknown
+libopen-rte.so.40  000015442B1BDC27  Unknown               Unknown  Unknown
+libopen-rte.so.40  000015442B1D59B6  orte_errmgr_base_     Unknown  Unknown
+libopen-rte.so.40  000015442B1C575B  Unknown               Unknown  Unknown
+libmpi.so.40.30.2  00001544309290DA  ompi_mpi_abort        Unknown  Unknown
+libmpi_mpifh.so    0000154430C592BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000015442FDB9D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014FA78EA6CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014FA78EA6180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014FA73F5179A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014FA73F51AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014FA79661C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014FA799A92BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014FA78B09D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000148AAC6AACF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000148AAC6AA180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000148AA775579A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000148AA7755AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000148AACE65C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000148AAD1AD2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000148AAC30DD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  00001462C991BCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001462C991B180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  00001462C49C679A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  00001462C49C6AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  00001462CA0D6C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    00001462CA41E2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       00001462C957ED85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000145BC7ABCCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000145BC7ABC180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000145BC2B6779A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000145BC2B67AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000145BC8277C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000145BC85BF2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000145BC771FD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014A9D82CDCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A9D82CD180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014A9D337879A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014A9D3378AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014A9D8A88C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014A9D8DD02BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014A9D7F30D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014F071FB4CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014F071FB4180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014F06D05F79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014F06D05FAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014F07276FC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014F072AB72BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014F071C17D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  00001540A3F81CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001540A3F81180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000015409F02C79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000015409F02CAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  00001540A473CC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    00001540A4A842BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       00001540A3BE4D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014BA837BDCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014BA837BD180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014BA7E86879A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014BA7E868AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014BA83F78C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014BA842C02BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014BA83420D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000015494ED6BCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015494ED6B180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000154949E1679A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000154949E16AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000015494F526C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000015494F86E2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000015494E9CED85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014D7AF6BDCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014D7AF6BD180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014D7AA76879A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014D7AA768AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014D7AFE78C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014D7B01C02BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014D7AF320D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014D6BF157CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014D6BF157180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014D6BA20279A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014D6BA202AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014D6BF912C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014D6BFC5A2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014D6BEDBAD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000148CF8854CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000148CF8854180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000148CF38FF79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000148CF38FFAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000148CF900FC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000148CF93572BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000148CF84B7D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014CC31BDFCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014CC31BDF180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014CC2CC8A79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014CC2CC8AAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014CC3239AC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014CC326E22BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014CC31842D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014EB06D1FCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014EB06D1F180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014EB01DCA79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014EB01DCAAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014EB074DAC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014EB078222BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014EB06982D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000015362A0A1CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015362A0A1180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000015362514C79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000015362514CAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000015362A85CC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000015362ABA42BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000153629D04D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  00001540DC864CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001540DC86045A  pthread_cond_wait     Unknown  Unknown
+libopen-pal.so.40  00001540D6B0B3CD  PMIx_Abort            Unknown  Unknown
+libopen-pal.so.40  00001540D6B78210  pmix3x_abort          Unknown  Unknown
+libopen-rte.so.40  00001540D78CBC27  Unknown               Unknown  Unknown
+libopen-rte.so.40  00001540D78E39B6  orte_errmgr_base_     Unknown  Unknown
+libopen-rte.so.40  00001540D78D375B  Unknown               Unknown  Unknown
+libmpi.so.40.30.2  00001540DD0370DA  ompi_mpi_abort        Unknown  Unknown
+libmpi_mpifh.so    00001540DD3672BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       00001540DC4C7D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014C62E9D8CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C62E9D8180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014C629A8379A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014C629A83AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014C62F193C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014C62F4DB2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014C62E63BD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000015473DFF1CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000015473DFED45A  pthread_cond_wait     Unknown  Unknown
+libopen-pal.so.40  00001547382983CD  PMIx_Abort            Unknown  Unknown
+libopen-pal.so.40  0000154738305210  pmix3x_abort          Unknown  Unknown
+libopen-rte.so.40  0000154739058C27  Unknown               Unknown  Unknown
+libopen-rte.so.40  00001547390709B6  orte_errmgr_base_     Unknown  Unknown
+libopen-rte.so.40  000015473906075B  Unknown               Unknown  Unknown
+libmpi.so.40.30.2  000015473E7C40DA  ompi_mpi_abort        Unknown  Unknown
+libmpi_mpifh.so    000015473EAF42BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000015473DC54D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  00001512EC3AACF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001512EC3AA180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  00001512E745579A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  00001512E7455AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  00001512ECB65C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    00001512ECEAD2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       00001512EC00DD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014D24C2B1CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014D24C2B1180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014D24735C79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014D24735CAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014D24CA6CC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014D24CDB42BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014D24BF14D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000153A4D2F6CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000153A4D2F245A  pthread_cond_wait     Unknown  Unknown
+libopen-pal.so.40  0000153A4759D3CD  PMIx_Abort            Unknown  Unknown
+libopen-pal.so.40  0000153A4760A210  pmix3x_abort          Unknown  Unknown
+libopen-rte.so.40  0000153A4835DC27  Unknown               Unknown  Unknown
+libopen-rte.so.40  0000153A483759B6  orte_errmgr_base_     Unknown  Unknown
+libopen-rte.so.40  0000153A4836575B  Unknown               Unknown  Unknown
+libmpi.so.40.30.2  0000153A4DAC90DA  ompi_mpi_abort        Unknown  Unknown
+libmpi_mpifh.so    0000153A4DDF92BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000153A4CF59D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014BCFE0B4CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014BCFE0B4180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014BCF915F79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014BCF915FAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014BCFE86FC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014BCFEBB72BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014BCFDD17D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000152C6611BCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000152C6611B180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000152C611C679A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000152C611C6AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000152C668D6C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000152C66C1E2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000152C65D7ED85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000151378240CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000151378240180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  00001513732EB79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  00001513732EBAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  00001513789FBC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000151378D432BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000151377EA3D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000145D69049CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000145D69049180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000145D640F479A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000145D640F4AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000145D69804C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000145D69B4C2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000145D68CACD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014EE3DDBECF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014EE3DDBE180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014EE38E6979A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014EE38E69AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014EE3E579C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014EE3E8C12BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014EE3DA21D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014A469F98CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014A469F98180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014A46504379A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014A465043AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014A46A753C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014A46AA9B2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014A469BFBD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014EF48EE8CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014EF48EE8180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014EF43F9379A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014EF43F93AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014EF496A3C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014EF499EB2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014EF48B4BD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014C18DE7DCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014C18DE7D180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014C188F2879A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014C188F28AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014C18E638C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014C18E9802BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014C18DAE0D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000145A53A15CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000145A53A15180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000145A4EAC079A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000145A4EAC0AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000145A541D0C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000145A545182BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000145A53678D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014E5935CECF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014E5935CE180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014E58E67979A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014E58E679AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014E593D89C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014E5940D12BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014E593231D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014AF79450CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014AF79450180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014AF744FB79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014AF744FBAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014AF79C0BC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014AF79F532BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014AF790B3D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014D2D1CBFCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014D2D1CBF180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014D2CCD6A79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014D2CCD6AAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014D2D247AC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014D2D27C22BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014D2D1922D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  000014BC5F23BCF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  000014BC5F23B180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  000014BC5A2E679A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  000014BC5A2E6AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  000014BC5F9F6C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    000014BC5FD3E2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       000014BC5EE9ED85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000150A71D7ACF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150A71D7A180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000150A6CE2579A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000150A6CE25AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000150A72535C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000150A7287D2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000150A719DDD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000146BB2327CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000146BB2327180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000146BAD3D279A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000146BAD3D2AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000146BB2AE2C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000146BB2E2A2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000146BB1F8AD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  00001489AB8E6CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001489AB8E6180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  00001489A699179A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  00001489A6991AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  00001489AC0A1C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    00001489AC3E92BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       00001489AB549D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000152DBC308CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000152DBC308180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000152DB73B379A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000152DB73B3AFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000152DBCAC3C4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000152DBCE0B2BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000152DBBF6BD85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  0000150E75392CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  0000150E75392180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  0000150E7043D79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  0000150E7043DAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  0000150E75B4DC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    0000150E75E952BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       0000150E74FF5D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+MOM6               000000000156476B  for__signal_handl     Unknown  Unknown
+libpthread-2.28.s  00001464B3D32CF0  Unknown               Unknown  Unknown
+libpthread-2.28.s  00001464B3D32180  nanosleep             Unknown  Unknown
+libopen-rte.so.40  00001464AEDDD79A  orte_show_help_no     Unknown  Unknown
+libopen-rte.so.40  00001464AEDDDAFC  orte_show_help        Unknown  Unknown
+libmpi.so.40.30.2  00001464B44EDC4A  PMPI_Abort            Unknown  Unknown
+libmpi_mpifh.so    00001464B48352BE  Unknown               Unknown  Unknown
+MOM6               000000000124AE3E  Unknown               Unknown  Unknown
+MOM6               00000000008700FF  Unknown               Unknown  Unknown
+MOM6               00000000005AA3A7  Unknown               Unknown  Unknown
+MOM6               000000000061C957  Unknown               Unknown  Unknown
+MOM6               000000000049D62A  Unknown               Unknown  Unknown
+MOM6               0000000000496091  Unknown               Unknown  Unknown
+MOM6               0000000000FE953E  Unknown               Unknown  Unknown
+MOM6               000000000040FE22  Unknown               Unknown  Unknown
+libc-2.28.so       00001464B3995D85  __libc_start_main     Unknown  Unknown
+MOM6               000000000040FD2E  Unknown               Unknown  Unknown
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] 47 more processes have sent help message help-mpi-api.txt / mpi-abort
+[gadi-cpu-clx-2922.gadi.nci.org.au:3141252] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
