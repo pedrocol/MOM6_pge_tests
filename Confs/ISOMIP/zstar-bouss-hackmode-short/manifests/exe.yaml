@@ -1,0 +1,8 @@
+format: yamanifest
+version: 1.0
+---
+work/MOM6-nonbousshackmode:
+  fullpath: /scratch/x77/cy8964/mom6/MOM6-nonbousshackmode
+  hashes:
+    binhash: 629e14e8669817d0d5b6ee819528d533
+    md5: 1be3b5bbcb2c090289f5b6dbf4d7a109

@@ -1,0 +1,423 @@
+format: yamanifest
+version: 1.0
+---
+work/INPUT/.git/COMMIT_EDITMSG:
+  fullpath: /home/156/cy8964/ISOMIP/.git/COMMIT_EDITMSG
+  hashes:
+    binhash: 37c851815a59cef26092c2d31e2199ed
+    md5: 1d4a948d42af5e4f3595e6447f6b2324
+work/INPUT/.git/HEAD:
+  fullpath: /home/156/cy8964/ISOMIP/.git/HEAD
+  hashes:
+    binhash: b37d6bb06934aca9b44ddaf31713f3d9
+    md5: cf7dd3ce51958c5f13fece957cc417fb
+work/INPUT/.git/ORIG_HEAD:
+  fullpath: /home/156/cy8964/ISOMIP/.git/ORIG_HEAD
+  hashes:
+    binhash: 45eec33cf6796d721586ad28512875f8
+    md5: 42f0a4a37c2cd024a4f92f6b58c92032
+work/INPUT/.git/config:
+  fullpath: /home/156/cy8964/ISOMIP/.git/config
+  hashes:
+    binhash: 11de2b6ad380a86c1dd75351841c8512
+    md5: 27c63a0ae598e68bd6bbe81be2324b96
+work/INPUT/.git/description:
+  fullpath: /home/156/cy8964/ISOMIP/.git/description
+  hashes:
+    binhash: 9e3550a62283f467e0685d9bc2b1cbf3
+    md5: a0a7c3fff21f2aea3cfa1d0316dd816c
+work/INPUT/.git/hooks/applypatch-msg.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/applypatch-msg.sample
+  hashes:
+    binhash: 1555652f5f6ab161aa30cfba637136b8
+    md5: ce562e08d8098926a3862fc6e7905199
+work/INPUT/.git/hooks/commit-msg.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/commit-msg.sample
+  hashes:
+    binhash: 4f386e52c6cc8e7057c05de2be0ae6af
+    md5: 579a3c1e12a1e74a98169175fb913012
+work/INPUT/.git/hooks/fsmonitor-watchman.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/fsmonitor-watchman.sample
+  hashes:
+    binhash: bf1b290117a7b4f6cdb7688794f6ba3f
+    md5: ea587b0fae70333bce92257152996e70
+work/INPUT/.git/hooks/post-update.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/post-update.sample
+  hashes:
+    binhash: 587320c2ad6548b437b8fb0180496291
+    md5: 2b7ea5cee3c49ff53d41e00785eb974c
+work/INPUT/.git/hooks/pre-applypatch.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/pre-applypatch.sample
+  hashes:
+    binhash: cc3a81f2b3afd85dfa7f9b95ef0bd815
+    md5: 054f9ffb8bfe04a599751cc757226dda
+work/INPUT/.git/hooks/pre-commit.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/pre-commit.sample
+  hashes:
+    binhash: 1cfd46b1b08a96e6f6f6108560af10cd
+    md5: 305eadbbcd6f6d2567e033ad12aabbc4
+work/INPUT/.git/hooks/pre-merge-commit.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/pre-merge-commit.sample
+  hashes:
+    binhash: 0ae6ba8d970baaa5df69c14b20ec749d
+    md5: 39cb268e2a85d436b9eb6f47614c3cbc
+work/INPUT/.git/hooks/pre-push.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/pre-push.sample
+  hashes:
+    binhash: 8ba198d153c83378e10bea383811b1f5
+    md5: 2c642152299a94e05ea26eae11993b13
+work/INPUT/.git/hooks/pre-rebase.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/pre-rebase.sample
+  hashes:
+    binhash: 9cdd3b50810e45be1f13c733ad97cb72
+    md5: 56e45f2bcbc8226d2b4200f7c46371bf
+work/INPUT/.git/hooks/pre-receive.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/pre-receive.sample
+  hashes:
+    binhash: 4fcd13f49b8ff4fd439fdad3c5f80a83
+    md5: 2ad18ec82c20af7b5926ed9cea6aeedd
+work/INPUT/.git/hooks/prepare-commit-msg.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/prepare-commit-msg.sample
+  hashes:
+    binhash: 5b6f54279e883f29a607c9df902f1c03
+    md5: 2b5c047bdb474555e1787db32b2d2fc5
+work/INPUT/.git/hooks/push-to-checkout.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/push-to-checkout.sample
+  hashes:
+    binhash: 11ded6c702f22de1961cf73d7c770c25
+    md5: c7ab00c7784efeadad3ae9b228d4b4db
+work/INPUT/.git/hooks/update.sample:
+  fullpath: /home/156/cy8964/ISOMIP/.git/hooks/update.sample
+  hashes:
+    binhash: 5e522d8e7f74e66aa93a978635b62efe
+    md5: 647ae13c682f7827c22f5fc08a03674e
+work/INPUT/.git/index:
+  fullpath: /home/156/cy8964/ISOMIP/.git/index
+  hashes:
+    binhash: d26185eb6b34faabf2c9d7c2d317ae72
+    md5: b18081782d940fbf7bfbbc54f948e7c4
+work/INPUT/.git/info/exclude:
+  fullpath: /home/156/cy8964/ISOMIP/.git/info/exclude
+  hashes:
+    binhash: c5dff3a3b194071fff07e9dfefa16c36
+    md5: 036208b4a1ab4a235d75c181e685e5a3
+work/INPUT/.git/logs/HEAD:
+  fullpath: /home/156/cy8964/ISOMIP/.git/logs/HEAD
+  hashes:
+    binhash: 62e0755c82aebd1a9d37724715e6868e
+    md5: 63f4cd54adc963105e8e0cbe6484222b
+work/INPUT/.git/logs/refs/heads/main:
+  fullpath: /home/156/cy8964/ISOMIP/.git/logs/refs/heads/main
+  hashes:
+    binhash: 8cb5128a90b4496ad787f93c2983d9de
+    md5: 9530d974de228fb5d5e173e2af8c166c
+work/INPUT/.git/logs/refs/remotes/origin/main:
+  fullpath: /home/156/cy8964/ISOMIP/.git/logs/refs/remotes/origin/main
+  hashes:
+    binhash: 495741882229aa0e872661b69b62c5d6
+    md5: 27c915ff619f3a845211967b83ccaac6
+work/INPUT/.git/objects/07/4323d8d4530e0c50a0975873e6a76ddf2e9b6f:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/07/4323d8d4530e0c50a0975873e6a76ddf2e9b6f
+  hashes:
+    binhash: 9995c515d3f330662f7156c2ed49f7a1
+    md5: 79aac935dc75c96e7b4f438b92850cbc
+work/INPUT/.git/objects/0d/c97d36e1191fbe9fa79090148c940b96c7721e:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/0d/c97d36e1191fbe9fa79090148c940b96c7721e
+  hashes:
+    binhash: c24a5ff8e65243563e321cf659c81d08
+    md5: 6520d13ecab8270f00736565f5057211
+work/INPUT/.git/objects/10/c2b9d5a8686fd51a0f68f17aff505fd13c8957:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/10/c2b9d5a8686fd51a0f68f17aff505fd13c8957
+  hashes:
+    binhash: e1e9de439e6a0154ea4d5b8fd5e4ff69
+    md5: f50de57db794623707daf52cabe353f3
+work/INPUT/.git/objects/24/4f748e022d8a3d8b56aa9d0ec85e6752367d48:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/24/4f748e022d8a3d8b56aa9d0ec85e6752367d48
+  hashes:
+    binhash: d2efea6f150d31d268aea9eb219a2a95
+    md5: df0f1a86c42a0c96c5a8f637c31bbb38
+work/INPUT/.git/objects/2a/40294b03b5516eca3e9b9ff6a779809a6d65e0:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/2a/40294b03b5516eca3e9b9ff6a779809a6d65e0
+  hashes:
+    binhash: cda683a72d26394a502b2ce356c07d7d
+    md5: 52a51c79dabdc68cad54ec5f51da1558
+work/INPUT/.git/objects/2f/6a8a37b5c642ad350c67f28fc7de6e6cd37ee7:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/2f/6a8a37b5c642ad350c67f28fc7de6e6cd37ee7
+  hashes:
+    binhash: 08673e77d7af62fee8a2d11a7ad190ce
+    md5: a52df8d787126d43c2dba6289bd53799
+work/INPUT/.git/objects/30/7de0def9ab928393a490bd376b356c66ee0f57:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/30/7de0def9ab928393a490bd376b356c66ee0f57
+  hashes:
+    binhash: 67780b3c3b6de46c27dff5c4a8b82dff
+    md5: fc4f0d5284549f9c545915a6028227e7
+work/INPUT/.git/objects/34/c9fa393a0174f29e0e804afa1bea1185f13f10:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/34/c9fa393a0174f29e0e804afa1bea1185f13f10
+  hashes:
+    binhash: 507068f46bb96eaa18c0451c5da8d4d2
+    md5: def2c5ea2de7d44ad48f2cf39183a5bd
+work/INPUT/.git/objects/42/0ba51ede8bcae014cb7b82873e5bbdc937f31a:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/42/0ba51ede8bcae014cb7b82873e5bbdc937f31a
+  hashes:
+    binhash: 5bf5a39bde45aaf1103057c78db5ee91
+    md5: 60c5323a1fb6d6868cb4e2f744e0d17f
+work/INPUT/.git/objects/45/c229d5e7464847e85d1bcdf5451f65cc347e7a:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/45/c229d5e7464847e85d1bcdf5451f65cc347e7a
+  hashes:
+    binhash: f42fcd1cc895b22e760862b758b4b2b2
+    md5: 5346852fe2f1f231f030a1811ae9c2ad
+work/INPUT/.git/objects/4e/275fa12bd213a658d6a87e571b16e046f66e14:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/4e/275fa12bd213a658d6a87e571b16e046f66e14
+  hashes:
+    binhash: 6b8be311da0d0880ac5839d81e4c4cdb
+    md5: 766cedbccadf9a88345f4dba2406629d
+work/INPUT/.git/objects/52/b2b30b4dd932ef129106a1b89a6d931c771b9e:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/52/b2b30b4dd932ef129106a1b89a6d931c771b9e
+  hashes:
+    binhash: bcab0a9553f7475d5ce1ad50893aa426
+    md5: fb2098bf1b9af222b69a215649578a23
+work/INPUT/.git/objects/5a/b6315ab0b56b3fbcd562417daac858b66aa63a:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/5a/b6315ab0b56b3fbcd562417daac858b66aa63a
+  hashes:
+    binhash: c7bd6224359204c92d9d77437f62ebd8
+    md5: cc7f36cd813482c8bc4a9ad09c19a49b
+work/INPUT/.git/objects/61/00ee086c5cb5e97fd2afacb1076df55d450fb2:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/61/00ee086c5cb5e97fd2afacb1076df55d450fb2
+  hashes:
+    binhash: cc555b7fcb2acb89f4f90e32f7e54969
+    md5: d1ed9f515b2d5300976054ec887075d7
+work/INPUT/.git/objects/62/b00906b39719b8676cfc205e49810021d07b93:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/62/b00906b39719b8676cfc205e49810021d07b93
+  hashes:
+    binhash: 573bf96d99c3e26e6ff40648112b2e6b
+    md5: 8cb642cfaaff431054a2870fe7faa189
+work/INPUT/.git/objects/7f/4978d836f2a03372329e1428128aafe6a32bce:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/7f/4978d836f2a03372329e1428128aafe6a32bce
+  hashes:
+    binhash: 6f30f0c2c7e009928a9ffec629924089
+    md5: 4e43576886da62c686080b71c4a99ac8
+work/INPUT/.git/objects/80/f57518b1dd7cc045eae751ab222c22d4366f7a:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/80/f57518b1dd7cc045eae751ab222c22d4366f7a
+  hashes:
+    binhash: 14c0542ea5c161de86fbb56d9309361a
+    md5: 9207d09164f005bd02135b163b7f9504
+work/INPUT/.git/objects/91/95e7f9d624e38bc0f2bdb5c0366111a9d98b0e:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/91/95e7f9d624e38bc0f2bdb5c0366111a9d98b0e
+  hashes:
+    binhash: 268eaacd1c4006e215003dcd9b464cc1
+    md5: 6e4ad2dcc19358f6837bc6aebda5dfb6
+work/INPUT/.git/objects/9a/f81c0ea761bd5af79cc3e90e6adef6bf5b19cf:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/9a/f81c0ea761bd5af79cc3e90e6adef6bf5b19cf
+  hashes:
+    binhash: 37794d439447be007a794a2490d938b1
+    md5: 1c47809e3abc049a917f71299dc6f4e9
+work/INPUT/.git/objects/af/b89c985124df8de16474d190aa980154f976c3:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/af/b89c985124df8de16474d190aa980154f976c3
+  hashes:
+    binhash: edae6a669b8e9d4f952992b8bf0d4d27
+    md5: 021227f50fd7cf22fc571cc68065d358
+work/INPUT/.git/objects/b3/764f60ce30d8ddec2f0f98bc011f13034417b0:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/b3/764f60ce30d8ddec2f0f98bc011f13034417b0
+  hashes:
+    binhash: 5a1e079285b277c5e46be8a2f457b243
+    md5: 8394f6cc4e89486171d34e1816b01600
+work/INPUT/.git/objects/c2/8412dbe6d9584dab6384d1b2b4e3bfed685485:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/c2/8412dbe6d9584dab6384d1b2b4e3bfed685485
+  hashes:
+    binhash: 073fd7c102972b12d1ee328fdab502aa
+    md5: de26acb24e241e0e3449de8516ac3439
+work/INPUT/.git/objects/c4/c8c7553d870d09bf392590e154e7171664a40d:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/c4/c8c7553d870d09bf392590e154e7171664a40d
+  hashes:
+    binhash: bbbd02ab556b7173c9c4f19eac766fb4
+    md5: 61e54f3a36fc7ca0bbe231e253927777
+work/INPUT/.git/objects/cc/267e7346de81a0a5f5d804b89c2835b5a5eab5:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/cc/267e7346de81a0a5f5d804b89c2835b5a5eab5
+  hashes:
+    binhash: 573c4204e91bbc01d29eb98ef66d82da
+    md5: 4f74cdc883a0671a6e66eb234df3c729
+work/INPUT/.git/objects/d4/3828e14c1062173ed492fac21d43462ac4c0e9:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/d4/3828e14c1062173ed492fac21d43462ac4c0e9
+  hashes:
+    binhash: 885c6e0572b77ac2c562f100f35d1dc3
+    md5: 57664ed4727d80f07b4db7479ef36fa4
+work/INPUT/.git/objects/d6/a4d8569102e41d0eb25fc7b3e136d8ae71b882:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/d6/a4d8569102e41d0eb25fc7b3e136d8ae71b882
+  hashes:
+    binhash: ed3e906faa826432e1b150e2f580bcc0
+    md5: c2e10e1549cfbdb11aa92f450cb38b1c
+work/INPUT/.git/objects/dd/13c601f6931e874416b5f730b6b7df6f18a846:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/dd/13c601f6931e874416b5f730b6b7df6f18a846
+  hashes:
+    binhash: d9e5a47d21e8a32e72893ab62ba88009
+    md5: a984c2d8c05642b70cae84dfb67bd28e
+work/INPUT/.git/objects/dd/dad258aebb79fa3e84e25d988f0fa1eee811c9:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/dd/dad258aebb79fa3e84e25d988f0fa1eee811c9
+  hashes:
+    binhash: 850aaec5250674bdf9a7d96c3aa77b9f
+    md5: 7d20b0f2b0bfe24330302d131a82a5c0
+work/INPUT/.git/objects/fd/ddf149da9b3860fde9cde0c861ce0e472b1900:
+  fullpath: /home/156/cy8964/ISOMIP/.git/objects/fd/ddf149da9b3860fde9cde0c861ce0e472b1900
+  hashes:
+    binhash: 43899a93e40c501ab574ebb9e26580f9
+    md5: d95cf58fcdce88ef4294e4cff4812dfb
+work/INPUT/.git/refs/heads/main:
+  fullpath: /home/156/cy8964/ISOMIP/.git/refs/heads/main
+  hashes:
+    binhash: 1100f89cf908d6319f226e2309f4a3a7
+    md5: c177e7a614fd218f5d6af29399ca918e
+work/INPUT/.git/refs/remotes/origin/main:
+  fullpath: /home/156/cy8964/ISOMIP/.git/refs/remotes/origin/main
+  hashes:
+    binhash: 37889a4d7e2a554966b39f4c1412c387
+    md5: c177e7a614fd218f5d6af29399ca918e
+work/INPUT/3D_LAYER_COLD_IC.nc:
+  fullpath: /home/156/cy8964/ISOMIP/3D_LAYER_COLD_IC.nc
+  hashes:
+    binhash: 8aed54433aaac487cf68a1800a5f11eb
+    md5: 3e065dcde20f8c907427290596bb26fa
+work/INPUT/3D_LAYER_WARM_IC.nc:
+  fullpath: /home/156/cy8964/ISOMIP/3D_LAYER_WARM_IC.nc
+  hashes:
+    binhash: e4e86b81fb7fc8353c9d17a574f62b30
+    md5: 7486adb6e012bda9bc55d85eb72c0140
+work/INPUT/Gustavo_Ocean1_3D.nc:
+  fullpath: /home/156/cy8964/ISOMIP/Gustavo_Ocean1_3D.nc
+  hashes:
+    binhash: 99b2ae5943a26162248bd41257638878
+    md5: 9595f5347b9bfc62eeaceda925999ac6
+work/INPUT/Gustavo_Ocean1_3D_halved.nc:
+  fullpath: /home/156/cy8964/ISOMIP/Gustavo_Ocean1_3D_halved.nc
+  hashes:
+    binhash: 06073034f8ba6e7bfa54290c8a947a6f
+    md5: e5eaa79fa328f9ad86bb01ff004fd88d
+work/INPUT/ISOMIP_thickness_sigma_shelf_zstar-bouss.nc:
+  fullpath: /home/156/cy8964/ISOMIP/ISOMIP_thickness_sigma_shelf_zstar-bouss.nc
+  hashes:
+    binhash: 8ab1de51cb3ecbf4e86c3ccc862af89f
+    md5: c66465f62d20a612022eba0d7c45c368
+work/INPUT/ISOMIP_thickness_sigma_shelf_zstar-nonbouss.nc:
+  fullpath: /home/156/cy8964/ISOMIP/ISOMIP_thickness_sigma_shelf_zstar-nonbouss.nc
+  hashes:
+    binhash: 8600a4dd3c3d75f5cb9978e3e84fcb46
+    md5: 7191b42978ab3cae4eb95e05e519ab99
+work/INPUT/ISOMIP_thickness_zstar-bouss.nc:
+  fullpath: /home/156/cy8964/ISOMIP/ISOMIP_thickness_zstar-bouss.nc
+  hashes:
+    binhash: 53af8377d148d95f600f2e94aeaa7f20
+    md5: fc79e2403c5dc4309dd4312ec70b9cf6
+work/INPUT/ISOMIP_thickness_zstar-nonbouss.nc:
+  fullpath: /home/156/cy8964/ISOMIP/ISOMIP_thickness_zstar-nonbouss.nc
+  hashes:
+    binhash: af5b3d4b755db4a3de46090e036dc993
+    md5: 645e1a874e8a89bafed5d6666fe34cf7
+work/INPUT/ISOMIP_zgrid.nc:
+  fullpath: /home/156/cy8964/ISOMIP/ISOMIP_zgrid.nc
+  hashes:
+    binhash: 3089732ed15ad908ce51de3ee870a345
+    md5: 12cd0d23282a28bc51f14bce42f50bdb
+work/INPUT/MOM_Shelf_IC.nc:
+  fullpath: /home/156/cy8964/ISOMIP/MOM_Shelf_IC.nc
+  hashes:
+    binhash: 1a5235d49b53165c1c1c571d21b6d68a
+    md5: 869d689747644d76e09e91e4f2f853e7
+work/INPUT/MOM_Shelf_IC_200700Grosveld.nc:
+  fullpath: /home/156/cy8964/ISOMIP/MOM_Shelf_IC_200700Grosveld.nc
+  hashes:
+    binhash: dde0ccc78a69b781bd1cd65d22175428
+    md5: 5b80652e9f7664369b0835a8574a4fe4
+work/INPUT/MOM_Shelf_IC_200700Grosveld_cut74.nc:
+  fullpath: /home/156/cy8964/ISOMIP/MOM_Shelf_IC_200700Grosveld_cut74.nc
+  hashes:
+    binhash: 8b2844046beb24fb4051b538480e6cbd
+    md5: d331b58066bcc3628a2422d48c6a8727
+work/INPUT/MOM_Shelf_IC_Mathiot.nc:
+  fullpath: /home/156/cy8964/ISOMIP/MOM_Shelf_IC_Mathiot.nc
+  hashes:
+    binhash: 5073a2743a2f0c32c44237e7fccfb06b
+    md5: d42d13dfd93c4cdf3543260b8b11d82c
+work/INPUT/Ocean1_3D.nc:
+  fullpath: /home/156/cy8964/ISOMIP/Ocean1_3D.nc
+  hashes:
+    binhash: 424e447b4410159480867059e4d7dcd5
+    md5: 41ff7c7ad45502f2266cc1b21c0fde8c
+work/INPUT/Ocean1_3D_halved.nc:
+  fullpath: /home/156/cy8964/ISOMIP/Ocean1_3D_halved.nc
+  hashes:
+    binhash: ad570ab9367493f2c023ca5de89d7c24
+    md5: 6d526b7d4f27a1cdd8805e0663b94c81
+work/INPUT/README.md:
+  fullpath: /home/156/cy8964/ISOMIP/README.md
+  hashes:
+    binhash: 3c0b9c22f6ed23ce052a0973c2b02330
+    md5: 13ddce0935dc7cc04314f740f83288db
+work/INPUT/Topog_invshelf_IC_200700Grosveld.nc:
+  fullpath: /home/156/cy8964/ISOMIP/Topog_invshelf_IC_200700Grosveld.nc
+  hashes:
+    binhash: 5306b4316c16c5a11ef68eebd1a952f6
+    md5: 75eed8e4e9138eb4d73cd5f941dce2d0
+work/INPUT/diag_rho0.nc:
+  fullpath: /home/156/cy8964/ISOMIP/diag_rho0.nc
+  hashes:
+    binhash: 915f256b555eb8aed6336852920da6bb
+    md5: 3c1e9ddb5b4a3bedd579e746f921370d
+work/INPUT/diag_rho2.nc:
+  fullpath: /home/156/cy8964/ISOMIP/diag_rho2.nc
+  hashes:
+    binhash: 60f8f92e955c0a176f6786c4bbd68bbd
+    md5: 2e28890e50220397a167a2b3c4a30271
+work/INPUT/hycom1_30_30m.nc:
+  fullpath: /home/156/cy8964/ISOMIP/hycom1_30_30m.nc
+  hashes:
+    binhash: d9a8c1e14e0724d517c3eba84fb73704
+    md5: 6c4928c98f330e27d1381da03cdf9067
+work/INPUT/hycom1_75_800m.nc:
+  fullpath: /home/156/cy8964/ISOMIP/hycom1_75_800m.nc
+  hashes:
+    binhash: df786bce708db439d46b8a079777ca63
+    md5: 023b23f6b55e6f3b3de6778e608d0d3d
+work/INPUT/hycom1_75_800m_shrunken.nc:
+  fullpath: /home/156/cy8964/ISOMIP/hycom1_75_800m_shrunken.nc
+  hashes:
+    binhash: a64f6f0ee9c47843894e5afd64f8574c
+    md5: c269b45bf1b95277bca22230460563c7
+work/INPUT/lin_ISOMIP_initTS_saltlin.nc:
+  fullpath: /home/156/cy8964/ISOMIP/lin_ISOMIP_initTS_saltlin.nc
+  hashes:
+    binhash: 6e0e664bb6aa0867338d66ad3a1b3543
+    md5: 4ffed6314607dd88a29b496cfd48a57a
+work/INPUT/nonlin_ISOMIP_initTS.nc:
+  fullpath: /home/156/cy8964/ISOMIP/nonlin_ISOMIP_initTS.nc
+  hashes:
+    binhash: 09e3c572db808d1ccabdac82e9c2718a
+    md5: 033c1d52796a7a5b87d2f63a8b7c9f30
+work/INPUT/nonlin_ISOMIP_initTS_salttanh.nc:
+  fullpath: /home/156/cy8964/ISOMIP/nonlin_ISOMIP_initTS_salttanh.nc
+  hashes:
+    binhash: 77c44c7c2d97010647e326f31cc90bcc
+    md5: 0a2aff17bd0c3b44ab781650a251e796
+work/INPUT/ocean_hgrid_isomip.nc:
+  fullpath: /home/156/cy8964/ISOMIP/ocean_hgrid_isomip.nc
+  hashes:
+    binhash: 5d414bd17329c620ae70ac20d91e04d8
+    md5: 81647f9deaf6f17fffac7c272220bc01
+work/INPUT/vert_isomip.nc:
+  fullpath: /home/156/cy8964/ISOMIP/vert_isomip.nc
+  hashes:
+    binhash: 27948c0bb9875b2454d970dc9b7c1876
+    md5: 62121532af6d64c817cc0703293828c0
+work/INPUT/vert_isomip_30m.nc:
+  fullpath: /home/156/cy8964/ISOMIP/vert_isomip_30m.nc
+  hashes:
+    binhash: 7fc5b9e6e3166a92dfcf7303fc4582a1
+    md5: 62121532af6d64c817cc0703293828c0
+work/INPUT/vert_isomip_80m.nc:
+  fullpath: /home/156/cy8964/ISOMIP/vert_isomip_80m.nc
+  hashes:
+    binhash: 0d0063c0fed754182ff68f2ecae5a9de
+    md5: 9474cc3bb6ee6f6c3745407fb961705d
+work/INPUT/vert_isomip_orig.nc:
+  fullpath: /home/156/cy8964/ISOMIP/vert_isomip_orig.nc
+  hashes:
+    binhash: 35643efe7294dadd1e75a7fd24d2ad4f
+    md5: 7ab0f8b4d8048408716a61eda9803de4
